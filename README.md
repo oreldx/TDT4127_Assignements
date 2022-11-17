@@ -1,0 +1,61 @@
+# Assignments TDT4127 
+## _Programmering & Numerics in Python [2022]_
+
+- **Assignment 01 :**
+    - Mandatory exercices :
+        - Numerics Theory
+        - Numerical Differentiation
+    - Possible exercices : 
+        - Baking Course
+        - Tetrahedron
+        - Peppes Pizza
+- **Assignment 02 :**
+    - Mandatory exercices :
+        - Bisection Search
+        - Quadratic equation, Second Degree Equations
+    - Possible exercices : 
+        - Different types of if statements
+        - Ticket Prices and Discounts 
+        - Chess Game (position)
+- **Assignment 03 :**
+    - Mandatory exercices :
+        - Numerics Theory 
+        - Newton's Method
+    - Possible exercices : 
+        - Introduction to Loops
+        - Fibonacci 
+        - Double loops
+- **Assignment 04 :**
+    - Mandatory exercices :
+        - Secant Method
+        - ODEassignement
+    - Possible exercices : 
+        - Basics of functions
+        - Varierte funksjoner
+        - Euklid’s algorithm
+- **Assignment 05 :**
+    - Mandatory exercices :
+        - Newton’s method and systems of ODE
+    - Possible exercices : 
+        - Lotto
+        - Lists and Loops
+        - Basic on lists
+- **Assignment 06 :**
+    - Mandatory exercices :
+        - Gaussian Elimination
+    - Possible exercices : 
+        - String Managment
+        - Slicing
+        - Accessing Characters in a String
+- **Assignment 07 :**
+    - Mandatory exercices :
+        - Integration
+        - Plotting Temperatures
+    - Possible exercices : 
+        - Intro to dictionary    
+        - Intro to sets    
+- **Assignment 08 :**
+    - Mandatory exercices :
+        - AdaptiveSimpson
+    - Possible exercices : 
+        - Chess Game
